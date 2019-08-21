@@ -18,11 +18,10 @@ This is a basic demo of how a Feature Flag would work in a Node//Express app.
 
 ## Updating and running the Express App
 
-1. Create a local clone of this Repo
+1. Create a local clone of this Repo on your desktop.
 
 ```
 $ cd desktop
-$ mkdir myDemoFlag
 
 $ git clone https://github.com/siherrondemo/LaunchDarkly-Demo.git
 ```
