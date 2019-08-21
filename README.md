@@ -1,6 +1,4 @@
 # LaunchDarkly-Demo
-> Simple implementation of a Feature Flag to deliver a single line of response in an Express app.
-
 This is a basic demo of how a Feature Flag would work in a Node//Express app.
 
 ## LaunchDarkly Steps
