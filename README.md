@@ -16,7 +16,7 @@ This is a basic demo of how a Feature Flag would work in a Node//Express app.
 ![Default EQ True](https://github.com/siherrondemo/LaunchDarkly-Demo/blob/master/screenshots/My_Demo_Feature_-_Targeting.png)
 
 
-## Updating aand running the Express App
+## Updating and running the Express App
 
 1. Create a local clone of this Repo
 
