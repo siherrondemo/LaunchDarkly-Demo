@@ -1,0 +1,16 @@
+{
+  "name": "LaunchDarkly-demo",
+  "version": "1.0.0",
+  "description": "Basic LaunchDarkly Flag implementation example.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node dev"
+  },
+  "author": "Simon Herron",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "launchdarkly-node-server-sdk": "^5.9.0",
+    "uuidv4": "^4.0.0"
+  }
+}
